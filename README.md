@@ -1,5 +1,5 @@
 # intel-edison-simple-wifi-blink
-Intel Edison using the Arduino wifi library to blink an led on client connection
+Intel Edison using the Arduino wifi library to blink a led on client connection
 
 Created as a simple test to combine the arduino libraries for the wifi shield and the blink sketch on the Intel Edison's integrated wifi.
 
