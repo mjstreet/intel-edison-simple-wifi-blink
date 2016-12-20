@@ -3,6 +3,8 @@ This was created as a test of the Intel Edison integrated wifi using the Arduino
 
 1.Connects to WPA network (add SSID/key in Sketch)
 
-2.Turns on/off LED on Intel Edison (or on breakout board)
+2. Creates a simple server
 
-3.Returns a simple message to the client, and disconnects them.
+3. Waits for a client connection and then turns on/off LED on Intel Edison (or on breakout board)
+
+4.Returns a simple message to the client, and disconnects them.
